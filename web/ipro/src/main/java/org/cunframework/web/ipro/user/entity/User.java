@@ -25,7 +25,7 @@ import com.google.common.collect.Lists;
 /**
  * 用户.
  * 
- * @author calvin
+ * @author calvin test commit
  */
 @Entity
 @Table(name = "ss_user")
